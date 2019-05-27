@@ -1,3 +1,8 @@
+[![APM](https://img.shields.io/apm/l/vim-mode.svg?style=plastic)](https://www.apache.org/licenses/LICENSE-2.0)
+[![License](https://img.shields.io/badge/harrytsz-DeepLearning_On_Music-<brightgreen>.svg)](https://blog.csdn.net/Harrytsz)
+![Progress](http://progressed.io/bar/1)
+
+
 Note: deepjazz has been succeeded by songbird.ai and is no longer being actively developed.
 
 deepjazz
