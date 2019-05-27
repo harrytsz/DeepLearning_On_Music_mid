@@ -27,6 +27,8 @@ Note: running Keras/Theano on GPU is formally supported for only NVIDIA cards (C
 
 Note: preprocess.py must be modified to work with other MIDI files (the relevant "melody" MIDI part needs to be selected). The ability to handle this natively is a planned feature.
 
+If you want to get more detail about music21, you can visit the webpage below:
+
 Music21 Documentation: http://web.mit.edu/music21/doc/
 
 ## Installation:
