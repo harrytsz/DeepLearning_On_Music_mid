@@ -47,6 +47,9 @@ You may should also install the pygame package:
 ```
 pip install pygame
 ```
+
+You can download mid music from the webpage : http://midi.midicn.com/
+
 <p align="right">
 	<em>Created By Harrytsz</em>
 </p>
