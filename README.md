@@ -47,3 +47,6 @@ You may should also install the pygame package:
 ```
 pip install pygame
 ```
+<p align="right">
+	<em>Created By Harrytsz</em>
+</p>
