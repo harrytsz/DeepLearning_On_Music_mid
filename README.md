@@ -41,7 +41,8 @@ Music21 Documentation: http://web.mit.edu/music21/doc/
 ```
 pip install music21
 ```
-2.pygame
+2.pygame        
+
 You may should also install the pygame package:
 ```
 pip install pygame
