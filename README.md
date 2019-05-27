@@ -14,23 +14,23 @@ I built deepjazz in 36 hours at a hackathon. It uses Keras & Theano, two deep le
 SoundCloud
 Check out deepjazz's music on SoundCloud!
 
-Dependencies
+## Dependencies
 
-Keras
-Theano ("bleeding-edge" version on GitHub)
-music21
-Instructions
+* Keras
+* Theano ("bleeding-edge" version on GitHub)
+* music21
 
-
-Run on CPU with command:
-
+**Run on CPU with command:**
+```
 python generator.py [# of epochs]
-Run on GPU with command:
-
+```
+**Run on GPU with command:**
+```
 THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python generator.py [# of epochs]
 Note: running Keras/Theano on GPU is formally supported for only NVIDIA cards (CUDA backend).
+```
 
-Note: preprocess.py must be modified to work with other MIDI files (the relevant "melody" MIDI part needs to be selected). The ability to handle this natively is a planned feature.
+**Note:** preprocess.py must be modified to work with other MIDI files (the relevant "melody" MIDI part needs to be selected). The ability to handle this natively is a planned feature.
 
 If you want to get more detail about music21, you can visit the webpage below:
 
