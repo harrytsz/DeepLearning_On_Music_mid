@@ -16,6 +16,7 @@ Theano ("bleeding-edge" version on GitHub)
 music21
 Instructions
 
+
 Run on CPU with command:
 
 python generator.py [# of epochs]
@@ -27,3 +28,14 @@ Note: running Keras/Theano on GPU is formally supported for only NVIDIA cards (C
 Note: preprocess.py must be modified to work with other MIDI files (the relevant "melody" MIDI part needs to be selected). The ability to handle this natively is a planned feature.
 
 Music21 Documentation: http://web.mit.edu/music21/doc/
+
+## Installation:
+1.music21
+```
+pip install music21
+```
+2.pygame
+You may should also install the pygame package:
+```
+pip install pygame
+```
